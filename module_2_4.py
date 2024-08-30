@@ -14,4 +14,4 @@ for x in numbers:
     else:
         not_primes.append(x)
 print(f'Простые числа:, {primes}')
-print(f'Не простые числа: {not_primes}')
+print(f'Составные числа: {not_primes}')
